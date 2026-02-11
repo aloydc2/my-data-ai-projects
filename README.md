@@ -42,3 +42,5 @@
 - Collaborated with business and IT groups to establish short term and long-term goals. 
 - Developed reports and dashboards to support specified processes, goals and key business metrics using Tableau. 
 - Gathered and analysed information and provided recommendations to address and resolve business issues using ZOHO CRM and its components.
+
+### Soft Skills: Leadership, Management, Decision Making, Analytical, Critical Thinking, Problem-solving, Stakeholder Management
