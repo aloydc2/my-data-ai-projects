@@ -4,7 +4,7 @@
 
 ### Education
 - Bachelor of Engineering (EXTC) | Xavier Institute of Engineering, Mumbai
-- MBA (ITSM)                     | Narsee Monjee Institute of Management Studies, Mumbai
+- MBA (ITSM)                     | NMIMS, Mumbai
 
 ### Work Experience
 **Senior Analyst @ ATG BUSINESS SOLUTIONS PVT. LTD. (April 2024 - Present)**
