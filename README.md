@@ -3,8 +3,8 @@
 ### Technical Skills: Tableau, SQL, Python, PowerBI, Alteryx, UI Path
 
 ### Education
-- Bachelor of Engineering, EXTC | Xavier Institute of Engineering, Mumbai
-- MBA, ITSM                     | Narsee Monjee Institute of Management Studies, Mumbai
+- Bachelor of Engineering (EXTC) | Xavier Institute of Engineering, Mumbai
+- MBA (ITSM)                     | Narsee Monjee Institute of Management Studies, Mumbai
 
 ### Work Experience
 **Senior Analyst @ ATG BUSINESS SOLUTIONS PVT. LTD. (April 2024 - Present)**
